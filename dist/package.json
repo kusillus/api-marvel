@@ -1,0 +1,11 @@
+{
+  "name": "api-marvel",
+  "version": "1.0.0",
+  "description": "testing api marvel using vue and axios",
+  "author": "Alexander Guevara Benites <wguevarab7@gmail.com>",
+  "private": true,
+  "scripts": {
+    "start": "node build/dev-server.js",
+    "postinstall": "npm install express"
+ }
+}
